@@ -124,6 +124,10 @@ nh3
 # https://pillow.readthedocs.io/en/stable/releasenotes/
 Pillow
 
+# SVG read support for Pillow (allows SVG uploads for device type images)
+# https://github.com/Maksim-Burtsev/pillow-lunasvg
+pillow-lunasvg
+
 # PostgreSQL database adapter for Python
 # https://github.com/psycopg/psycopg/blob/master/docs/news.rst
 psycopg[c,pool]
