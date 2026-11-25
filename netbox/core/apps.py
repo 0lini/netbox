@@ -1,3 +1,4 @@
+import pillow_lunasvg  # noqa: F401  (registers SVG support with Pillow)
 from django.apps import AppConfig
 from django.conf import settings
 from django.core.cache import cache
